@@ -1,0 +1,24 @@
+{
+  "name": "happy-nextlevelweek",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">\r <img width=\"450\" src='./public/images/logogit.svg'>\r <h1>Happy - 3ª Edição Next Level Week</h1>",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaasimi/happy-nextlevelweek.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaasimi/happy-nextlevelweek/issues"
+  },
+  "homepage": "https://github.com/rafaasimi/happy-nextlevelweek#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.5"
+  }
+}
