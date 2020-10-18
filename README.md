@@ -1,5 +1,5 @@
 <div align="center">
-<img width="450" src='/images/logogit.svg'>
+<img width="450" src='.\public\images\logogit.svg'>
 <h1>Happy - 3ª Edição Next Level Week</h1>
 
 <img src="https://img.shields.io/github/repo-size/rafaasimi/happy-nextlevelweek">
@@ -12,9 +12,28 @@
 
 ## 🔖 Descrição
 <p>🧒 Aplicação para localização de orfanatos desenvolvida na 3ª Next Level Week disponibilizada pela Rocketseat.</p>
+<p>O objetivo da aplicação é a possibilidade de cadastrar orfanatos existentes e de buscar os orfanatos disponiveis para visitação afim de trazer alegria para as crianças.</p>
 
 <br>
 
+## 🚀 Tecnologias e Dependências
+- <a href="">HTML</a>
+- <a href="">CSS</a>
+- <a href="">JavaScript</a>
+- <a href="https://nodejs.org/">NodeJS</a>
+- <a href="https://nodemon.io/">Nodemon</a>
+- <a href="https://expressjs.com/pt-br/">ExpressJS</a>
+- <a href="https://handlebarsjs.com/">HandleBars</a>
+
+<br>
+
+## 🎲 Como utilizar
+    $ cd happy-nextlevelweek
+    $ npm install
+    $ npm start
+O arquivo [package.json](package.json) esta incluso e já configurado para utilização do Nodemon.
+
+<br>
 
 ## 📝 Licença
 <p>O projeto se encontra sob licença MIT. Para mais detalhes, acesse <a href='LICENSE'>license<a>.</p>
