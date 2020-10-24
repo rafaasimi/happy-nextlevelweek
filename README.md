@@ -1,5 +1,5 @@
 <div align="center">
-<img width="450" src='.\public\images\logogit.svg'>
+<img width="600" src='.\public\images\layout.png'>
 <h1>Happy - 3ª Edição Next Level Week</h1>
 
 <img src="https://img.shields.io/github/repo-size/rafaasimi/happy-nextlevelweek">
