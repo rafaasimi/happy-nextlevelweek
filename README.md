@@ -24,6 +24,7 @@
 - <a href="https://nodemon.io/">Nodemon</a>
 - <a href="https://expressjs.com/pt-br/">ExpressJS</a>
 - <a href="https://handlebarsjs.com/">HandleBars</a>
+- <a href="https://www.sqlite.org/index.html">SQLite</a>
 
 <br>
 
