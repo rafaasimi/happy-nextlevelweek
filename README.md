@@ -35,6 +35,9 @@ O arquivo [package.json](package.json) esta incluso e já configurado para utili
 
 <br>
 
+## 🖼️ Layout
+<img src='.\public\images\happy.gif'>
+
 ## 📝 Licença
 <p>O projeto se encontra sob licença MIT. Para mais detalhes, acesse <a href='LICENSE'>license<a>.</p>
 
